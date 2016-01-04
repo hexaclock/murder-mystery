@@ -1,0 +1,90 @@
+Round 0:
+Cthulhu goes to Living Room because their creepiness level 10 times the round number 0 plus their wit 5 mod the number of rooms 5 = 0 (the index of the Living Room)
+Link goes to Den because their creepiness level 2 times the round number 0 plus their wit 6 mod the number of rooms 5 = 1 (the index of the Den)
+Kindergardener goes to Basement because their creepiness level 1 times the round number 0 plus their wit 3 mod the number of rooms 5 = 3 (the index of the Basement)
+Game Master goes to Living Room because their creepiness level 10 times the round number 0 plus their wit 10 mod the number of rooms 5 = 0 (the index of the Living Room)
+Ernie goes to Attic because their creepiness level 3 times the round number 0 plus their wit 4 mod the number of rooms 5 = 4 (the index of the Attic)
+Bert goes to Attic because their creepiness level 3 times the round number 0 plus their wit 4 mod the number of rooms 5 = 4 (the index of the Attic)
+Sherlock Holmes goes to Living Room because their creepiness level 3 times the round number 0 plus their wit 10 mod the number of rooms 5 = 0 (the index of the Living Room)
+Dr. House goes to Den because this is the next available room.
+Jesse goes to Kitchen because this is the next available room.
+Walter goes to Kitchen because this is the next available room.
+Dexter goes to Kitchen because this is the next available room.
+
+The initial murder round: 
+Murder time...: 
+Party Goer Cthulhu has been killed in the Living Room by Game Master using null tool from on high because the killer's homicidal level 10 plus their tool damage level 10 >  the dumbest person's wits 5 plus their tool damage level 6
+Party Goer Dr. House has been killed in the Den by Link using Sword because the killer's homicidal level 6 plus their tool damage level 9 >  the dumbest person's wits 10 plus their tool damage level 4
+Party Goer Jesse has been killed in the Kitchen by Walter using Meth because the killer's homicidal level 8 plus their tool damage level 6 >  the dumbest person's wits 5 plus their tool damage level 6
+Party Goer Ernie has been killed in the Attic by Bert using Towel because the killer's homicidal level 5 plus their tool damage level 10 >  the dumbest person's wits 4 plus their tool damage level 1
+
+Moving around...: 
+Link goes to Basement because their creepiness level 2 times the round number 1 plus their wit 6 mod the number of rooms 5 = 3 (the index of the Basement)
+Kindergardener goes to Basement because this is the next available room.
+Game Master goes to Basement because this is the next available room.
+Bert goes to the garden because there is no more room left anywhere.
+Sherlock Holmes goes to the garden because there is no more room left anywhere.
+Walter goes to the garden because there is no more room left anywhere.
+Dexter goes to the garden because there is no more room left anywhere.
+
+Questioning...: 
+Sherlock Holmes questions Bert. He busts them! This is because the investigator's wits 10 the round number 1 their tool damage level 10 > Bert's wit level 4 plus their tool damage level 10
+Sherlock Holmes questions Walter. He busts them! This is because the investigator's wits 10 the round number 1 their tool damage level 10 > Walter's wit level 10 plus their tool damage level 6
+Sherlock Holmes questions Dexter, but finds them innocent!
+
+Round number 2
+
+
+Moving around...: 
+Link goes to Basement because this is the next available room.
+Kindergardener goes to Basement because this is the next available room.
+Game Master goes to Basement because this is the next available room.
+Sherlock Holmes goes to the garden because there is no more room left anywhere.
+Dexter goes to the garden because there is no more room left anywhere.
+
+Questioning...: 
+Sherlock Holmes questions Dexter, but finds them innocent!
+
+Round number 3
+
+
+Moving around...: 
+Link goes to Basement because this is the next available room.
+Kindergardener goes to Basement because this is the next available room.
+Game Master goes to Basement because this is the next available room.
+Sherlock Holmes goes to the garden because there is no more room left anywhere.
+Dexter goes to the garden because there is no more room left anywhere.
+
+Questioning...: 
+Sherlock Holmes questions Dexter, but finds them innocent!
+
+Round number 4
+
+
+Moving around...: 
+Link goes to Basement because this is the next available room.
+Kindergardener goes to Basement because this is the next available room.
+Game Master goes to Basement because this is the next available room.
+Sherlock Holmes goes to the garden because there is no more room left anywhere.
+Dexter goes to the garden because there is no more room left anywhere.
+
+Questioning...: 
+Sherlock Holmes questions Dexter, but finds them innocent!
+
+Round number 5
+
+Murder time...: 
+Party Goer Kindergardener has been killed in the Basement by Link using Sword because the killer's homicidal level 6 plus their tool damage level 9 >  the dumbest person's wits 3 plus their tool damage level 5
+
+Moving around...: 
+Link goes to the garden because there is no more room left anywhere.
+Game Master goes to the garden because there is no more room left anywhere.
+Sherlock Holmes goes to the garden because there is no more room left anywhere.
+Dexter goes to the garden because there is no more room left anywhere.
+
+Questioning...: 
+Sherlock Holmes questions Game Master. He busts them! This is because the investigator's wits 10 the round number 5 their tool damage level 10 > Game Master's wit level 10 plus their tool damage level 10
+Sherlock Holmes questions Link. He busts them! This is because the investigator's wits 10 the round number 5 their tool damage level 10 > Link's wit level 6 plus their tool damage level 9
+Sherlock Holmes questions Dexter, but finds them innocent!
+No one in the house has done it/all criminals have been busted and no one wants to try again
+Game over!
